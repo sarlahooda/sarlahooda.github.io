@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{210:function(n,e,t){"use strict";t.r(e);var c={},l=t(43),component=Object(l.a)(c,(function(){var n=this,e=n.$createElement;return(n._self._c||e)("h1",[n._v("shrimad-bhagavad-gita.com")])}),[],!1,null,null,null);e.default=component.exports}}]);
