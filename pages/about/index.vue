@@ -1,12 +1,8 @@
 <template>
 <div>
-  <h1>Sarla Hooda</h1>
+  <h1>About</h1>
   <NuxtLink to="/">Home page</NuxtLink>
   <NuxtLink to="/about">About page</NuxtLink>
 </div>
   
 </template>
-
-<script>
-export default {}
-</script>
