@@ -9,7 +9,7 @@
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "npm run lint:js",
-    "predeploy": "nuxt generate",
+    "predeploy": "nuxt generate && cp CNAME ./dist",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
