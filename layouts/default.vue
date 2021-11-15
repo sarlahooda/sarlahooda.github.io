@@ -12,7 +12,7 @@
           href="#"
           class="block p-4 text-white font-bold whitespace-nowrap truncate"
         >
-          भगवद्गीता मुखपृष्ठ
+          भगवद्गीता
         </a>
 
         <label
@@ -96,12 +96,12 @@
           >
             
             <span class="text-4xl font-light whitespace-nowrap truncate py-10"
-              >भगवद्गीता मुखपृष्ठ</span
+              >भगवद्गीता</span
             >
           </a>
 
           <nav data-dev-hint="main navigation">
-            <a
+            <!-- <a
               href="#"
               class="
                 flex
@@ -134,9 +134,9 @@
                 />
               </svg>
               <span>Introduction</span>
-            </a>
+            </a> -->
             <a
-              href="/about"
+              href="/chapter/1"
               class="
                 flex
                 items-center
@@ -149,9 +149,9 @@
                 hover:text-white
               "
             >
-              <span class="ml-6">Chapter 1</span>
+              <span class="ml-6">अध्याय एक</span>
             </a>
-            <a
+            <!-- <a
               href="#"
               class="
                 flex
@@ -179,7 +179,7 @@
                 "
               ></span>
               <span>Chapter 2</span>
-            </a>
+            </a> -->
           </nav>
         </div>
 
