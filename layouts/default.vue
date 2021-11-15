@@ -229,16 +229,12 @@
         </nav>
       </aside>
 
-      <main id="content" class="flex-1 p-6 lg:px-8">
+      <main id="content" class="flex-1">
         <div class="max-w-7xl mx-auto">
           <!-- Replace with your content -->
-          <div class="px-4 py-6 sm:px-0">
-            <div
-              class="border-4 border-dashed border-gray-200 rounded-lg h-96"
-            >
+          
             <Nuxt />
-            </div>
-          </div>
+         
           <!-- /End replace -->
         </div>
       </main>
