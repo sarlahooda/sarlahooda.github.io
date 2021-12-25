@@ -183,6 +183,23 @@
             >
               <span class="ml-6">अध्याय तीन</span>
             </a>
+
+            <a
+              href="/chapter/4"
+              class="
+                flex
+                items-center
+                space-x-2
+                py-2
+                px-4
+                transition
+                duration-200
+                hover:bg-yellow-700
+                hover:text-white
+              "
+            >
+              <span class="ml-6">अध्याय चार</span>
+            </a>
             <!-- <a
               href="#"
               class="
