@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{298:function(e,t,n){"use strict";n.r(t);var r={},c=n(34),component=Object(c.a)(r,(function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)}),[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{},[t("img",{attrs:{src:"/hero.jpg"}})])}],!1,null,null,null);t.default=component.exports}}]);
