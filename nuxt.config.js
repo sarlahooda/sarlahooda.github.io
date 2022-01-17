@@ -42,7 +42,12 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxtjs/sitemap'
   ],
+
+  sitemap: {
+    hostname: 'https://shrimad-bhagavad-gita.com',
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
