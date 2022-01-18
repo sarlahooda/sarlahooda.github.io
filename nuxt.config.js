@@ -42,8 +42,13 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    '@nuxtjs/gtm',
   ],
+
+  gtm: {
+    id: 'GTM-PJ9P3RX'
+  },
 
   sitemap: {
     hostname: 'https://shrimad-bhagavad-gita.com',
